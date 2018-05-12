@@ -1,0 +1,28 @@
+_repo: The-Complete-Club-Book-for-Women--13-Including-Subjects-Material-and-References-for-Study-Pro__33201
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benton, Caroline French
+    alias: Burrell, Caroline Frances Benedict
+    gutenberg_agent_id: '6759'
+    url: http://www.gutenberg.org/2009/agents/6759
+description: ''
+gutenberg_issued: '2010-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33201'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women -- Societies and clubs'
+title: "The Complete Club Book for Women\r\nIncluding Subjects, Material and References\
+  \ for Study Programs; together with a Constitution and By-Laws; Rules of Order;\
+  \ Instructions how to make a Year Book; Suggestions for Practical Community Work;\
+  \ a Resume of what Some Clubs are Doing, etc., etc."
+url: http://www.gutenberg.org/ebooks/33201
